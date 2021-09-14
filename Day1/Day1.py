@@ -1,2 +1,2 @@
-text = "Thirty days and Thirty hours"
+text = "Forty days and Forty hours "
 print(text[1:])
